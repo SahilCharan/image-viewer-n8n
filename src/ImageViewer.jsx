@@ -60,7 +60,7 @@ function App() {
       }}
     >
       <h1 style={{ textAlign: "center", marginBottom: "1rem" }}>
-        🧠 Image Error Detector (n8n + Gemini)
+        Image Error Detector
       </h1>
 
       {/* Image Upload Section */}
